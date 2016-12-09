@@ -1,8 +1,4 @@
 # docker-unbound
-**Building image**
-
-> docker build -t kielby/unbound .
-
 **Unbound configuration file**
 
 >mkdir -p /srv/unbound </br>
